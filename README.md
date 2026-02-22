@@ -24,7 +24,7 @@ Zomato-style restaurant dataset containing restaurant names, cuisine types, rati
 
 ## ▶️ How to Run
 1. Open SQL Server Management Studio (SSMS)
-2. Open `Zomato_Restaurant_Analytics.sql`
+2. Open `SQL_Assignment_2.sql`
 3. Press **F5** to execute
 
 ## 🧰 Tools Used
